@@ -1,0 +1,15 @@
+/* Custom CSS for VerticalTimelineElement */
+.vertical-timeline-element-date  {
+
+  color: #000 !important; /* Set the date color to black */
+  font-weight: bold;
+}
+
+.vertical-timeline-element-content {
+  color: #000 !important; /* Set the content color to black */
+}
+
+/* Ensure that the content arrow color is correctly set */
+.vertical-timeline-element-content-arrow {
+  border-right: 7px solid #E01933 !important;
+}
